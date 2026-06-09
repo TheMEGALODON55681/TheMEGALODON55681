@@ -47,16 +47,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheMEGALODON55681&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMEGALODON55681&layout=compact&theme=dark&hide_border=true&langs_count=6&bg_color=00000000" alt="Top Languages" />
-</p>
-
----
-
 ## Connect
 
 <p align="center">
