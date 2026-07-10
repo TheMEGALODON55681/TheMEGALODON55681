@@ -13,7 +13,6 @@
 
 ## About Me
 
-- 🔭 Currently building a 3-project portfolio + DSA prep
 - 🛠️ Comfortable across ML (PyTorch/timm) and full-stack (Next.js/TS)
 - 🏆 Smart India Hackathon 2025 — top-24 finalist
 - 📬 Reachable via email below
