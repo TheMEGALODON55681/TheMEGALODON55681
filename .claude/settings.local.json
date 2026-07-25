@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(gh auth *)",
-      "PowerShell(gh auth status 2>&1)",
-      "PowerShell(gh repo view TheMEGALODON55681/TheMEGALODON55681 2>&1)"
-    ]
-  }
-}
