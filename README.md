@@ -46,12 +46,7 @@ Open to SDE and ML internships.
 <summary><b>Machine Learning</b></summary>
 <br>
 
-![Python](https://img.shields.io/badge/-Python-1A1A1A?style=for-the-badge&logo=python&logoColor=E64A19&labelColor=1A1A1A)
-![PyTorch](https://img.shields.io/badge/-PyTorch-1A1A1A?style=for-the-badge&logo=pytorch&logoColor=E64A19&labelColor=1A1A1A)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-1A1A1A?style=for-the-badge&logo=scikitlearn&logoColor=E64A19&labelColor=1A1A1A)
-![LightGBM](https://img.shields.io/badge/-LightGBM-1A1A1A?style=for-the-badge&labelColor=1A1A1A)
-![timm](https://img.shields.io/badge/-timm-1A1A1A?style=for-the-badge&labelColor=1A1A1A)
-![FAISS](https://img.shields.io/badge/-FAISS-1A1A1A?style=for-the-badge&labelColor=1A1A1A)
+<p><img src="https://img.shields.io/badge/-Python-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=python&logoColor=3776AB" alt="Python" /><img src="https://img.shields.io/badge/-PyTorch-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=pytorch&logoColor=EE4C2C" alt="PyTorch" /><img src="https://img.shields.io/badge/-NumPy-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=numpy&logoColor=4DABCF" alt="NumPy" /><img src="https://img.shields.io/badge/-pandas-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=pandas&logoColor=E70488" alt="pandas" /><img src="https://img.shields.io/badge/-scikit--learn-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" /><img src="https://img.shields.io/badge/-LightGBM-1A1A1A?style=for-the-badge&labelColor=0D1117" alt="LightGBM" /><img src="https://img.shields.io/badge/-timm-1A1A1A?style=for-the-badge&labelColor=0D1117" alt="timm" /><img src="https://img.shields.io/badge/-FAISS-1A1A1A?style=for-the-badge&labelColor=0D1117" alt="FAISS" /></p>
 
 </details>
 
@@ -59,12 +54,7 @@ Open to SDE and ML internships.
 <summary><b>Web</b></summary>
 <br>
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-1A1A1A?style=for-the-badge&logo=typescript&logoColor=E64A19&labelColor=1A1A1A)
-![React](https://img.shields.io/badge/-React-1A1A1A?style=for-the-badge&logo=react&logoColor=E64A19&labelColor=1A1A1A)
-![Next.js](https://img.shields.io/badge/-Next.js-1A1A1A?style=for-the-badge&logo=nextdotjs&logoColor=E64A19&labelColor=1A1A1A)
-![Tailwind](https://img.shields.io/badge/-Tailwind-1A1A1A?style=for-the-badge&logo=tailwindcss&logoColor=E64A19&labelColor=1A1A1A)
-![Node](https://img.shields.io/badge/-Node-1A1A1A?style=for-the-badge&logo=nodedotjs&logoColor=E64A19&labelColor=1A1A1A)
-![FastAPI](https://img.shields.io/badge/-FastAPI-1A1A1A?style=for-the-badge&logo=fastapi&logoColor=E64A19&labelColor=1A1A1A)
+<p><img src="https://img.shields.io/badge/-TypeScript-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=typescript&logoColor=3178C6" alt="TypeScript" /><img src="https://img.shields.io/badge/-React-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=react&logoColor=61DAFB" alt="React" /><img src="https://img.shields.io/badge/-Next.js-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" /><img src="https://img.shields.io/badge/-Tailwind-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind" /><img src="https://img.shields.io/badge/-Vite-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=vite&logoColor=646CFF" alt="Vite" /><img src="https://img.shields.io/badge/-Node-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=nodedotjs&logoColor=5FA04E" alt="Node" /><img src="https://img.shields.io/badge/-FastAPI-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=fastapi&logoColor=009688" alt="FastAPI" /><img src="https://img.shields.io/badge/-Pydantic-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=pydantic&logoColor=E92063" alt="Pydantic" /></p>
 
 </details>
 
@@ -72,14 +62,7 @@ Open to SDE and ML internships.
 <summary><b>Tools</b></summary>
 <br>
 
-![Git](https://img.shields.io/badge/-Git-1A1A1A?style=for-the-badge&logo=git&logoColor=E64A19&labelColor=1A1A1A)
-![GitHub](https://img.shields.io/badge/-GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=E64A19&labelColor=1A1A1A)
-![VS Code](https://img.shields.io/badge/-VS%20Code-1A1A1A?style=for-the-badge&logo=visualstudiocode&logoColor=E64A19&labelColor=1A1A1A)
-![Vercel](https://img.shields.io/badge/-Vercel-1A1A1A?style=for-the-badge&logo=vercel&logoColor=E64A19&labelColor=1A1A1A)
-![Linux](https://img.shields.io/badge/-Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=E64A19&labelColor=1A1A1A)
-![SQLite](https://img.shields.io/badge/-SQLite-1A1A1A?style=for-the-badge&logo=sqlite&logoColor=E64A19&labelColor=1A1A1A)
-![Streamlit](https://img.shields.io/badge/-Streamlit-1A1A1A?style=for-the-badge&logo=streamlit&logoColor=E64A19&labelColor=1A1A1A)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-1A1A1A?style=for-the-badge&logo=huggingface&logoColor=E64A19&labelColor=1A1A1A)
+<p><img src="https://img.shields.io/badge/-Git-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=F05032" alt="Git" /><img src="https://img.shields.io/badge/-GitHub-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FFFFFF" alt="GitHub" /><img src="https://img.shields.io/badge/-VS%20Code-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" /><img src="https://img.shields.io/badge/-Jupyter-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=jupyter&logoColor=F37626" alt="Jupyter" /><img src="https://img.shields.io/badge/-Docker-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=docker&logoColor=2496ED" alt="Docker" /><img src="https://img.shields.io/badge/-Linux-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=linux&logoColor=FCC624" alt="Linux" /><img src="https://img.shields.io/badge/-SQLite-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=sqlite&logoColor=5EC8F8" alt="SQLite" /><img src="https://img.shields.io/badge/-Vercel-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=vercel&logoColor=FFFFFF" alt="Vercel" /><img src="https://img.shields.io/badge/-Streamlit-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" /><img src="https://img.shields.io/badge/-Hugging%20Face-1A1A1A?style=for-the-badge&labelColor=0D1117&logo=huggingface&logoColor=FFD21E" alt="Hugging Face" /></p>
 
 </details>
 
