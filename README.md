@@ -8,15 +8,12 @@
 <tr>
 <td align="center">
 <a href="mailto:aryansharma10011@gmail.com"><img src="https://img.shields.io/badge/Email-E64A19?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<br><sub>aryansharma10011@gmail.com</sub>
 </td>
 <td align="center">
 <a href="https://www.linkedin.com/in/aryan-sharma-19906441b/"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=E64A19" alt="LinkedIn" /></a>
-<br><sub>aryan-sharma-19906441b</sub>
 </td>
 <td align="center">
 <a href="https://github.com/TheMEGALODON55681?tab=repositories"><img src="https://img.shields.io/badge/Repositories-1A1A1A?style=for-the-badge&logo=github&logoColor=E64A19" alt="Repositories" /></a>
-<br><sub>All Projects</sub>
 </td>
 </tr>
 </table>
@@ -27,15 +24,21 @@
 
 </div>
 
-<img align="right" height="230" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTd3MGZkbXdyc2xpNWN1eTd5M2o0YmZ1anRtNmc0ODRvOGVtYmQyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="" />
-
 I build and ship applied ML and full-stack systems end to end. I train or build each one, then deploy it instead of leaving it in a notebook.
 
 Pinned repositories below have the details, the metrics, and the live demos.
 
 Open to SDE and ML internships.
 
-<br clear="right" />
+<br>
+
+<div align="center">
+
+<img height="240" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTd3MGZkbXdyc2xpNWN1eTd5M2o0YmZ1anRtNmc0ODRvOGVtYmQyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="" />
+
+</div>
+
+<br>
 
 ## 🧰 Tech Stack
 
