@@ -7,7 +7,10 @@
 <table>
 <tr>
 <td align="center">
-<a href="mailto:aryansharma10011@gmail.com"><img src="https://img.shields.io/badge/Email-E64A19?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.aryanml.dev/"><img src="https://img.shields.io/badge/Portfolio-aryanml.dev-E64A19?style=for-the-badge&labelColor=1A1A1A&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI5LjUiLz48ZWxsaXBzZSBjeD0iMTIiIGN5PSIxMiIgcng9IjQiIHJ5PSI5LjUiLz48cGF0aCBkPSJNMi45IDguNmgxOC4yTTIuOSAxNS40aDE4LjIiLz48L3N2Zz4%3D" alt="Portfolio" /></a>
+</td>
+<td align="center">
+<a href="mailto:aryansharma10011@gmail.com"><img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=E64A19" alt="Email" /></a>
 </td>
 <td align="center">
 <a href="https://www.linkedin.com/in/aryan-sharma-19906441b/"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=E64A19" alt="LinkedIn" /></a>
@@ -26,7 +29,7 @@
 
 I build and ship applied ML and full-stack systems end to end. I train or build each one, then deploy it instead of leaving it in a notebook.
 
-Pinned repositories below have the details, the metrics, and the live demos.
+Case studies, metrics, and live demos are on my portfolio: **[aryanml.dev](https://www.aryanml.dev/)**. Pinned repositories below have the code.
 
 Open to SDE and ML internships.
 
